@@ -1,0 +1,29 @@
+body {
+    background-color: purple;
+}
+h1 {color:white;
+    background-color: limegreen;
+    padding:15px 30px;
+    font-size: 1.5em;
+    border:3px orange;
+    margin: 50px 100px 10px 300px;
+}
+h2{
+    background-color: brown;
+    color: pink;}
+p{
+    width:700px;
+    margin: 15px auto;
+    
+}
+.thinner {
+    width:500px;
+    line-height:1.5em;
+    color:white;
+    background-color: teal;
+}
+#myname {
+    font-size: 100px;
+    font-family: 'Libre Bodoni', serif;
+    font-weight: 400px;
+}
