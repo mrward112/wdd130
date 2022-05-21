@@ -23,6 +23,10 @@ nav a:hover{
 h4 {
     color:#080808;
 }
+.mountains{
+    margin-top:10%;
+    margin-bottom: 15%;
+}
 #hero-img{
     width: 100%;
 }
@@ -63,9 +67,9 @@ nav a:hover{
     color:#080808;
     text-decoration: none;
     font-size: 18px;
-    padding: 5px;
+    padding: 10px 25px 10px 25px;
     margin-top: 50px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .book:hover, .join:hover{
     background-color:#ffffff;
@@ -89,7 +93,7 @@ nav a:hover{
     padding-bottom: 15px;
 }
 .card-img{
-    margin: 10% 0;
+    margin-top: 10% 0;
     border: 10px solid #e0b591;
 }
 .rivers-card, .camping-card, .rapids-card{
