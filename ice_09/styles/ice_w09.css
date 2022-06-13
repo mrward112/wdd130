@@ -54,18 +54,20 @@ footer {
     color: white;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;es, serif;
-    padding-bottom: 15px;
+    /* padding-bottom: 15px; */
     border-left: none;
 } 
-
+#middle{
+    border-left: 1px grey solid;
+    border-right: 1px grey solid;
+    width: 100%;
+}
 footer p {  
-    border-left: solid rgb(148, 146, 146) 1px;
     grid-row: 2/3;
     font-size: xx-small;
     margin-top: -20px;
 }
 footer h3 {
     font-weight: 100;
-    border-left: solid rgb(148, 146, 146) 1px;
 
 }
